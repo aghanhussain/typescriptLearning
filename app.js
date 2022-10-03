@@ -1,5 +1,4 @@
 "use strict";
-
 exports.__esModule = true;
 var a = "Hello TS Hello Dear";
 console.log(a);

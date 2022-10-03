@@ -1,5 +1,4 @@
 // export {} to resolve duplicate identifeir issue 
-//  we can use modular approach also to remove this issue
 export {} 
 let a = "Hello TS Hello Dear"
 console.log(a)
